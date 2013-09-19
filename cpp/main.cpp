@@ -16,6 +16,6 @@ class Greeter {
 };
 
 int main() {
-	Greeter greeter("THSITG");
+	Greeter greeter("THSITC");
 	greeter.doGreet();
 }
