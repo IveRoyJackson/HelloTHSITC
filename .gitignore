@@ -1,0 +1,10 @@
+#c/c++ stuff
+*.o
+*.exe
+
+#java
+*.class
+*.jar
+
+#vim
+*.sw[a-z]
